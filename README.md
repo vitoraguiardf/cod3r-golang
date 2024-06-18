@@ -11,6 +11,7 @@ Desenvolvida pela Google, foi projetada para resolver problemas recorrentes da g
  - Criar um Webservice básico com Go
 
  ### Tópicos
+  - Introdução
   - Configuração de ambiente: Windows e Linux
   - Fundamentos da linguagem
   - Estruturas de controle
@@ -22,6 +23,7 @@ Desenvolvida pela Google, foi projetada para resolver problemas recorrentes da g
   - Testes
   - Banco de Dados - MySQl
   - Http
+  - Conclusão
 
   ### Instrutores
 
