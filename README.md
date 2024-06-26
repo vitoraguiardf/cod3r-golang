@@ -11,19 +11,19 @@ Desenvolvida pela Google, foi projetada para resolver problemas recorrentes da g
  - Criar um Webservice básico com Go
 
  ### Tópicos
-  - Introdução
-  - Configuração de ambiente: Windows e Linux
-  - Fundamentos da linguagem
-  - Estruturas de controle
-  - Array, Slice e Map
-  - Funções
-  - Sistemas de tipos
-  - Pacotes
-  - Concorrência
-  - Testes
-  - Banco de Dados - MySQl
-  - Http
-  - Conclusão
+  - :heavy_check_mark:Introdução
+  - :heavy_check_mark:Configuração de ambiente: Windows e Linux
+  - :heavy_check_mark:Fundamentos da linguagem
+  - :heavy_check_mark:Estruturas de controle
+  - :heavy_check_mark:Array, Slice e Map
+  - :running:Funções
+  - :x:Sistemas de tipos
+  - :x:Pacotes
+  - :x:Concorrência
+  - :x:Testes
+  - :x:Banco de Dados - MySQl
+  - :x:Http
+  - :x:Conclusão
 
   ### Instrutores
 
