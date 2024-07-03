@@ -2,24 +2,22 @@ package main
 
 import "fmt"
 
-func fatorial(n int) (int, error) {
+func fatorial(n uint) uint {
 	switch {
-	case n < 0:
-		return -1, fmt.Errorf("o numero %d é inválido", n)
 	case n == 0:
-		return 1, nil
+		return 1
 	default:
-		anterior, _ := fatorial(n - 1)
-		return anterior * n, nil
+		anterior := fatorial(n - 1)
+		return anterior * n
 	}
 }
 
 func main() {
-	res, _ := fatorial(5)
+	res := fatorial(5)
 	fmt.Printf("o resultado é %d\n", res)
 
-	_, err := fatorial(-4)
+	/* _, err := fatorial(-4)
 	if err != nil {
 		fmt.Println(err)
-	}
+	}*/
 }
